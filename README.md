@@ -1,4 +1,4 @@
-# FNAF-Security-Breach-Save-Manager
+# FNAF Security Breach Save Manager
 A manager to inject saves to FNAF SB
 
 # How to use it?
